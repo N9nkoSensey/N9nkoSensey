@@ -1,6 +1,6 @@
 # Hi, I'm Igor 👋
 
-I am a beginner Java developer. I know Java SE. Now I am studying the Spring and Hibernate framework.
+I am a beginner Java developer. I know Java SE. Now I am studying the Spring framework.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=N9nkoSensey&show_icons=true&count_private=true"><img
