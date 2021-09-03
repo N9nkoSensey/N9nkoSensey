@@ -1,13 +1,12 @@
 # Hi, I'm Igor 👋
 
-I am a beginner Java developer. I know Java SE. Now I am studying the Spring framework.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=N9nkoSensey&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=strelchenya&show_icons=true&count_private=true"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=N9nkoSensey&show_icons=true&count_private=true"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=strelchenya&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/romankh3/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=N9nkoSensey&layout=compact"/></a>
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=strelchenya&layout=compact"/></a>
 </p>
 
 <p align='center'>
@@ -21,18 +20,9 @@ I am a beginner Java developer. I know Java SE. Now I am studying the Spring fra
    📫 How to reach me: <a href='mailto:igor.v.strelchenya@gmail.com'>igor.v.strelchenya@gmail.com	</a>
 </p>
 
-### Key points
-* I am currently looking for a Java developer job.
-
-## 🛠 Technical Stack
-*   Java
-*   MySQL, PostgreSQL
-*   studying: Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract
-*   GitHub/GitLab
-
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=N9nkoSensey&color=DE002D">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=strelchenya&color=DE002D">
    </a>
 </div>
 <!--
